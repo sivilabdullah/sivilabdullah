@@ -12,12 +12,12 @@ I have been devoting a minimum of four hours per day to self-learning Swift and 
 </div>
 
 <div align=center>
-  <img width=146 src="https://github.com/sivilabdullah/sivilabdullah/assets/57291537/832d8d0c-7d67-4505-a798-f57d7b866481"></a>
-  <img width=150 src="https://github.com/sivilabdullah/sivilabdullah/assets/57291537/0e931aa4-4d51-4f32-a8f0-0409d7ad273c"></a>
-  <img width=150 src="https://github.com/sivilabdullah/sivilabdullah/assets/57291537/a959dc3d-2d29-460a-87e5-d2fe4e90e309"></a>
-  <img width=150 src="https://github.com/sivilabdullah/sivilabdullah/assets/57291537/cf24de22-128a-4e08-9583-3918dd4595bf"></a>
-  <img width=150 src="https://github.com/sivilabdullah/sivilabdullah/assets/57291537/e21d35d5-fa57-46e1-9c68-7f15bcbc4101"></a>
-  <img width=143 src="https://github.com/sivilabdullah/sivilabdullah/assets/57291537/ddc389b5-c329-4ac4-8967-13df3b4aa56f"></a>
+  <img width=127 src="https://github.com/sivilabdullah/sivilabdullah/assets/57291537/832d8d0c-7d67-4505-a798-f57d7b866481"></a>
+  <img width=130 src="https://github.com/sivilabdullah/sivilabdullah/assets/57291537/0e931aa4-4d51-4f32-a8f0-0409d7ad273c"></a>
+  <img width=130 src="https://github.com/sivilabdullah/sivilabdullah/assets/57291537/a959dc3d-2d29-460a-87e5-d2fe4e90e309"></a>
+  <img width=130 src="https://github.com/sivilabdullah/sivilabdullah/assets/57291537/cf24de22-128a-4e08-9583-3918dd4595bf"></a>
+  <img width=130 src="https://github.com/sivilabdullah/sivilabdullah/assets/57291537/e21d35d5-fa57-46e1-9c68-7f15bcbc4101"></a>
+  <img width=123 src="https://github.com/sivilabdullah/sivilabdullah/assets/57291537/ddc389b5-c329-4ac4-8967-13df3b4aa56f"></a>
 </div>
 
 <h3 align="center">
