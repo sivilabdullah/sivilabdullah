@@ -26,7 +26,8 @@ I have been devoting a minimum of four hours per day to self-learning Swift and 
   <a href="https://github.com/sivilabdullah/Favorite-Places-App">Favorite Places App</a> |
   <a href="https://github.com/sivilabdullah/Rick-and-Morty-Book">Rick And Morty</a> |
   <a href="https://github.com/sivilabdullah/BasicInstagramClone">Instagram Clone</a> |
-  <a href="https://github.com/asimcanyagiz/Scientific-Calculator">Foursquare Clone</a> |
+  <a href="https://github.com/sivilabdullah/Basic-foursquare-App">Foursquare Clone</a> |
+  
 </h3>
 
 <br>
